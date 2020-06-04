@@ -1,2 +1,2 @@
-# Evaluation-task-VecGeom-2020
-Following is the distance sub-algorithm for GJK implementation for the VecGeom repository
+# simplex sub-algorithm
+Following is a function to find the closest point in a tetrahedron/triangle from any point in 3D space. 
